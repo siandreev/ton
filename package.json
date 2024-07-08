@@ -1,6 +1,6 @@
 {
   "name": "@ton/ton",
-  "version": "13.11.2",
+  "version": "13.11.1",
   "repository": "https://github.com/ton-org/ton.git",
   "author": "Whales Corp. <developers@whalescorp.com>",
   "license": "MIT",
@@ -64,5 +64,5 @@
       }
     }
   },
-  "packageManager": "yarn@3.4.1"
+  "packageManager": "yarn@4.1.1"
 }
